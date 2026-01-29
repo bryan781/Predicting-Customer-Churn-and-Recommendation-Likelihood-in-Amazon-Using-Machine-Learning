@@ -7,29 +7,17 @@ Using an Amazon customer behavior dataset from Kaggle (2023–2024), the project
 🚀 Key Features
 
 Exploratory Data Analysis (EDA) with visualizations (age distribution, gender behavior, heatmaps)
-
 Correlation analysis for feature selection
-
 Binary classification of customer satisfaction
-
 Machine Learning models:
-
-Logistic Regression
-
-XGBoost
-
+  Logistic Regression
+  XGBoost
 5-Fold Cross-Validation
-
-Model evaluation using:
-
-Accuracy
-
-Precision, Recall, F1-score
-
-ROC Curve & AUC
-
-Confusion Matrix
-
+  Model evaluation using:
+  Accuracy
+  Precision, Recall, F1-score
+  ROC Curve & AUC
+  Confusion Matrix
 Comparison with prior academic and Kaggle research
 
 🧠 Research Objectives
